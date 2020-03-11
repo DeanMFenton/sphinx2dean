@@ -21,23 +21,6 @@ Indices and tables
 
 .. My stuff next
 
-
-Asterisks
-=========
-*italics*
-**bold**
-``code``
-
-* bullet list
-* bullet 2
-
-1. numbered
-2. hhhh
-
-| These lines are
-| broken exactly like in
-| the source file.
-
 This is a normal text paragraph. The next paragraph is a code sample::
 
   POST http://localhost:8000/VPE/session/login/
@@ -66,3 +49,19 @@ Link
 ====
 
 `Link text <https://www.hcc-embedded.com/>`_
+
+Asterisks
+=========
+*italics*
+**bold**
+``code``
+
+* bullet list
+* bullet 2
+
+1. numbered
+2. hhhh
+
+| These lines are
+| broken exactly like in
+| the source file.
