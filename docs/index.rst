@@ -9,8 +9,7 @@ Dean's Sphinx2 documentation
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
+   instructions/test
 
 Indices and tables
 ==================
