@@ -1,2 +1,0 @@
---no-index
---find-links file://
