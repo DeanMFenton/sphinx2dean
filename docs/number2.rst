@@ -20,10 +20,8 @@ This is a normal text paragraph. The next paragraph is a code sample::
 code-block directive
 ====================
 
-.. code-block:: ruby
+.. code-block:: JSON
 
-POST http://localhost:8000/VPE/session/login/
-  Content-Type: application/json
   {
     "ChangePassword": true,
     "Username": "admin",
