@@ -22,8 +22,6 @@ code-block directive
 
 .. code-block:: JSON
 
-POST http://localhost:8000/VPE/session/login/
-  Content-Type: application/json
   {
     "ChangePassword": true,
     "Username": "admin",
