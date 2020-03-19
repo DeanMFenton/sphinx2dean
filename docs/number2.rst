@@ -1,7 +1,7 @@
 File number2
 
-Code blocks
-===========
+Code block - literal
+====================
 
 This is a normal text paragraph. The next paragraph is a code sample::
 
@@ -20,8 +20,10 @@ This is a normal text paragraph. The next paragraph is a code sample::
 code-block directive
 ====================
 
-.. code-block:: JSON
+.. code-block:: ruby
 
+POST http://localhost:8000/VPE/session/login/
+  Content-Type: application/json
   {
     "ChangePassword": true,
     "Username": "admin",
