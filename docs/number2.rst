@@ -18,7 +18,7 @@ This is a normal text paragraph. The next paragraph is a code sample::
 code-block directive
 ====================
 
-.. code-block:: json
+.. code-block:: json-ld
 
 POST http://localhost:8000/VPE/session/login/
   Content-Type: application/json
