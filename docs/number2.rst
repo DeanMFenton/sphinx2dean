@@ -21,6 +21,7 @@ code-block directive
 ====================
 
 .. code-block:: javascript
+
   POST http://localhost:8000/VPE/session/login/
   Content-Type: application/json
   {
