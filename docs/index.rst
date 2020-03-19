@@ -20,9 +20,8 @@ Indices and tables
 
 .. My stuff next
 
-Jump to number2
-===============
-:doc:`number2`
+Code blocks
+===========
 
 This is a normal text paragraph. The next paragraph is a code sample::
 
@@ -51,7 +50,11 @@ Tables
 Link
 ====
 
-`Link text <https://www.hcc-embedded.com/>`_
+`HCC Embedded <https://www.hcc-embedded.com/>`_
+
+Jump to number2
+===============
+:doc:`number2`
 
 Asterisks
 =========
