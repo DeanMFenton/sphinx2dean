@@ -20,6 +20,10 @@ Indices and tables
 
 .. My stuff next
 
+Jump to number2
+===============
+:doc:`number2`
+
 This is a normal text paragraph. The next paragraph is a code sample::
 
   POST http://localhost:8000/VPE/session/login/
