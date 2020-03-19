@@ -15,6 +15,8 @@ This is a normal text paragraph. The next paragraph is a code sample::
   }
 
 
+
+
 code-block directive
 ====================
 
