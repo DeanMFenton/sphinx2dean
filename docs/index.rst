@@ -69,5 +69,4 @@ Asterisks
 2. hhhh
 
 | These lines are
-| broken exactly like in
-| the source file.
+| broken exactly as in the source file.
