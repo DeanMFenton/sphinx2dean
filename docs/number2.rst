@@ -14,7 +14,37 @@ This is a normal text paragraph. The next paragraph is a code sample::
     "NewPassword": "New$*Password43"
   }
 
+Tabs
+====
+.. content-tabs:: class
 
+.. tab-container:: tab1
+        :title: Tab title one
+
+.. code-block:: javascript
+
+  POST http://localhost:8000/VPE/session/login/
+  Content-Type: application/json
+  {
+    "ChangePassword": true,
+    "Username": "admin",
+    "Password": "********",
+    "NewPassword": "New$*Password43"
+  }
+
+    .. tab-container:: tab2
+        :title: Tab title two
+
+.. code-block:: javascript
+
+  POST http://localhost:8000/VPE/session/login/
+  Content-Type: application/json
+  {
+    "ChangePassword": true,
+    "Username": "admin",
+    "Password": "********",
+    "NewPassword": "New$*Password43"
+  }
 
 
 code-block directive
