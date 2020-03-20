@@ -19,7 +19,7 @@ Tabs
 .. container:: content-tabs class
 
 .. tab-container:: tab1
-        :title: Tab title one
+        :title: Java
 
 .. code-block:: javascript
 
