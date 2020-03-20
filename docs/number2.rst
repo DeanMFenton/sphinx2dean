@@ -1,18 +1,5 @@
 File number2
 
-Code block - literal
-====================
-
-This is a normal text paragraph. The next paragraph is a code sample::
-
-  POST http://localhost:8000/VPE/session/login/
-  Content-Type: application/json
-  {
-    "ChangePassword": true,
-    "Username": "admin",
-    "Password": "********",
-    "NewPassword": "New$*Password43"
-  }
 
 Tabs
 ====
@@ -32,8 +19,8 @@ Tabs
     "NewPassword": "New$*Password43"
   }
 
-    .. tab-container:: tab2
-        :title: Tab title two
+.. tab-container:: tab2
+        :title: Python
 
 .. code-block:: javascript
 
@@ -46,6 +33,19 @@ Tabs
     "NewPassword": "New$*Password43"
   }
 
+Code block - literal
+====================
+
+This is a normal text paragraph. The next paragraph is a code sample::
+
+  POST http://localhost:8000/VPE/session/login/
+  Content-Type: application/json
+  {
+    "ChangePassword": true,
+    "Username": "admin",
+    "Password": "********",
+    "NewPassword": "New$*Password43"
+  }
 
 code-block directive
 ====================
