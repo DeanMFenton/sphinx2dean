@@ -16,7 +16,7 @@ This is a normal text paragraph. The next paragraph is a code sample::
 
 Tabs
 ====
-.. content-tabs:: class
+.. container:: content-tabs class
 
 .. tab-container:: tab1
         :title: Tab title one
